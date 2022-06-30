@@ -1,7 +1,7 @@
 import json
 
 # import requests
-# added comment
+# added comment 2
 
 def lambda_handler(event, context):
     
